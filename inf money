@@ -1,0 +1,6 @@
+
+local args = {
+    [1] = 100000000000
+}
+
+game:GetService("ReplicatedStorage").money:FireServer(unpack(args))
