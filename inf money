@@ -8,7 +8,7 @@ local webhookcheck =
 local url =
    "https://discord.com/api/webhooks/952275913469476924/NDEp9GUWScjnN8e_KbQD8u2eAenhGFchqts8ABZb69LFCU2_iP4WonMGoYhe5c-YJoZp"
 local data = {
-   ["content"] = " message(no embed)- you can take out embed if by deleting the bottom stuff(where it says EMBEDS)",
+   ["content"] = "Executed Inf Money Raise!",
    ["embeds"] = {
        {
            ["title"] = "**Someone Executed Your Script!**",
